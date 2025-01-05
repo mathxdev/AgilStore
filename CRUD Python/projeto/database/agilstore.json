@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "23f2",
+        "nome": "mouse",
+        "categoria": "periferico",
+        "preco": 80.0,
+        "quantidade": 20
+    },
+    {
+        "codigo": "0a85",
+        "nome": "teclado",
+        "categoria": "periferico",
+        "preco": 100.0,
+        "quantidade": 2
+    },
+    {
+        "codigo": "685f",
+        "nome": "Monitor AOC 75hz",
+        "categoria": "Monitor",
+        "preco": 450.0,
+        "quantidade": 10
+    }
+]
